@@ -5,3 +5,5 @@
 **/*.bak
 .idea
 .firebaserc
+sample_codes
+scratch-pad*
